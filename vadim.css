@@ -23,6 +23,7 @@
 html {
     scrollbar-width: none;
     scroll-behavior: smooth;
+    scroll-padding-top: 2rem; /*solucion scroll corta con el navbar*/
 }
 body {
     font: var(--p);
